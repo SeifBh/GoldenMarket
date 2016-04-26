@@ -1,0 +1,166 @@
+
+.header{
+	width: 1200px;
+}
+#logpos{
+	padding-top: 8px;
+}
+#tophd{
+	background-color: black;
+}
+#xx5{
+	background-color: #48649f;
+	border: solid 0px ;
+	border-radius: 0px;
+}
+#xx5 li:hover{
+	background-color: #132633;
+	border: solid 0px ;
+	border-radius: 0px;
+}
+#xx5 li a{
+color :white;
+}
+#satyalive{
+	background-color: #132633;
+}
+ body{
+ 	background:url('/images/b3.jpg')no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+ }
+ #imgx {
+
+	width:192px;
+	height: 150px;
+
+}
+.divimg1{
+padding-left: 5px;
+padding-right: 5px
+}
+.ss{
+	border-radius: 5px;
+	cursor: pointer;
+background: -moz-linear-gradient(88deg, rgba(168,168,168,1) 0%, rgba(255,255,255,1) 100%); /* ff3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(168,168,168,1))); /* safari4+,chrome */
+background: -webkit-linear-gradient(88deg, rgba(168,168,168,1) 0%, rgba(255,255,255,1) 100%); /* safari5.1+,chrome10+ */
+background: -o-linear-gradient(88deg, rgba(168,168,168,1) 0%, rgba(255,255,255,1) 100%); /* opera 11.10+ */
+background: -ms-linear-gradient(88deg, rgba(168,168,168,1) 0%, rgba(255,255,255,1) 100%); /* ie10+ */
+background: linear-gradient(2deg, rgba(168,168,168,1) 0%, rgba(255,255,255,1) 100%); /* w3c */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FFFFFF', endColorstr='#A8A8A8',GradientType=0 ); /* ie6-9 */
+}
+
+
+
+
+
+
+
+.ss:hover{
+
+
+background: -moz-radial-gradient(center, ellipse cover, rgba(157,175,244,1) 0%, rgba(72,100,159,1) 100%); /* ff3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(157,175,244,1)), color-stop(100%, rgba(72,100,159,1))); /* safari4+,chrome */
+background:-webkit-radial-gradient(center, ellipse cover, rgba(157,175,244,1) 0%, rgba(72,100,159,1) 100%); /* safari5.1+,chrome10+ */
+background: -o-radial-gradient(center, ellipse cover, rgba(157,175,244,1) 0%, rgba(72,100,159,1) 100%); /* opera 11.10+ */
+background: -ms-radial-gradient(center, ellipse cover, rgba(157,175,244,1) 0%, rgba(72,100,159,1) 100%); /* ie10+ */
+background:radial-gradient(ellipse at center, rgba(157,175,244,1) 0%, rgba(72,100,159,1) 100%); /* w3c */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9DAFF4', endColorstr='#48649f',GradientType=0 ); /* ie6-9 */
+
+}
+
+.ss1{
+
+background: -moz-linear-gradient(89deg, rgba(255,174,0,1) 0%, rgba(255,111,0,1) 100%); /* ff3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,111,0,1)), color-stop(100%, rgba(255,174,0,1))); /* safari4+,chrome */
+background: -webkit-linear-gradient(89deg, rgba(255,174,0,1) 0%, rgba(255,111,0,1) 100%); /* safari5.1+,chrome10+ */
+background: -o-linear-gradient(89deg, rgba(255,174,0,1) 0%, rgba(255,111,0,1) 100%); /* opera 11.10+ */
+background: -ms-linear-gradient(89deg, rgba(255,174,0,1) 0%, rgba(255,111,0,1) 100%); /* ie10+ */
+background: linear-gradient(1deg, rgba(255,174,0,1) 0%, rgba(255,111,0,1) 100%); /* w3c */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#FF6F00', endColorstr='#FFAE00',GradientType=0 ); /* ie6-9 */
+}
+
+
+
+
+
+.gag{
+	 font-size: 24px;
+
+}
+#compteurfont{
+		 font-size: 17px;
+
+}
+.cout .nomprod{
+		color: #424242;
+	font-size: 18px;
+}
+#s4{
+border-radius: 5px;
+
+}
+#num{
+ font-size: 72px;
+ color: #FF7700;
+
+
+
+	    text-shadow: -1px 0 black , 0 1px black , 1px 0 black , 0 -1px black ;
+}
+
+#t55{
+	font-size: 25px;
+		color:#ff0050;
+
+}
+#des{
+	-webkit-transform: rotate(20deg);
+-moz-transform: rotate(20deg);
+-ms-transform: rotate(20deg);
+-o-transform: rotate(20eg);
+transform: rotate(20deg);
+background: red;
+width: 80px;
+height: 80px;
+position: relative;
+text-align: center;
+}
+#mm{
+
+	color :white;
+}
+#xx1{
+	background: rgba(0, 0, 0, 0.8);
+	border-radius:5px;
+}
+.gag{
+
+	color: white;
+	font-size: 28px;
+	    text-shadow: -3px 0 black , 0 1px black , 1px 0 black , 0 -1px black ;
+
+}
+#xx2{
+		background: rgba(0, 0, 0, 0.8);
+	border-radius:5px;
+	height: 250px;
+}
+#xx28{
+		background: rgba(0, 0, 0, 0.8);
+	border-radius:5px;
+width: 100%;
+}
+#s33{
+	width: 35%;
+}
+#lb55{
+	color: white;
+}
+#seif6744{
+	
+}
