@@ -1,5 +1,6 @@
 dfdgdhello
 
+<<<<<<< HEAD
 ddhello
 hello
 hello
@@ -11,3 +12,7 @@ hello
 hello
 hello
 hello
+=======
+dd
+cc
+>>>>>>> fbdd6c6623eefdd57cf1463f1bca6831c7907eef
