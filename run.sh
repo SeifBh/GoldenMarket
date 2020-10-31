@@ -1,4 +1,4 @@
 cd C:\GoldenMarket
-git pull origin main
+git pull origin master
 echo "hello" >> codeTest.txt
-git add . && git commit -m "another commit" && git push origin main
+git add . && git commit -m "another commit" && git push origin master
